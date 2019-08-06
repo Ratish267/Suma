@@ -1,0 +1,5 @@
+#reading your name
+echo -n "Enter your name: "
+read name
+echo YOu entered MR. /MS. $name
+

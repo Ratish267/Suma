@@ -1,0 +1,13 @@
+#lessgretahrethan
+echo "Enter a number between 10 and 20 "
+read number 
+if [ $number -lt 10 ]
+then 
+	echo "Thats was under the belt partner "
+elif [ $number -gt 20 ]
+then 
+	echo "That went to my over head"
+else
+	echo " Now you are making scense"
+fi
+

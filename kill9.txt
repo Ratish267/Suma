@@ -1,0 +1,3 @@
+#!/bin/sh
+PID= ps -ef | grep sudo | awk '{print $2}' | xargs kill -9
+

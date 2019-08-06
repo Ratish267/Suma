@@ -1,0 +1,4 @@
+#This is my first script
+echo "Welcome to the world of shell scripting"
+echo 'Default script is bash shell'
+echo Thank you !!

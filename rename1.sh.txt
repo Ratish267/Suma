@@ -1,0 +1,8 @@
+#if then statement in action
+echo "enter source and target filename"
+read soource target 
+if mv $source $target
+then 
+	echo " your file has been successfully renamed"
+fi
+

@@ -1,0 +1,2 @@
+#escape sequence
+echo -e "Hello\tHow are you\twhat are you doing\t"

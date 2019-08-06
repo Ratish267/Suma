@@ -1,0 +1,16 @@
+#Display the domain name 
+hostname -d
+#display the i[ address
+hostname -i
+#display the current week number 
+date +%U
+#Display the unix flavour
+uname -s
+#Display name of the processor
+uname -p
+#Display last reboot
+last
+# dislpay the date
+date
+#display the list of current list directories
+ls -lrtah

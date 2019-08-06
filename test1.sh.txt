@@ -1,0 +1,5 @@
+#name
+name=rkm
+VALUE=20
+echo The name is  $name
+echo value $VALUE
