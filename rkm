@@ -1,0 +1,5 @@
+More than two commands may be linked up into a pipe. Taking a previous pipe example using grep, we can further sort the files modified in August by the order of size.
+Prerequisite – MERGE Statement
+MERGE statement in SQL as discussed before is the combination of three INSERT, DELETE and UPDATE statements and with the help of MERGE statement we can perform all these three operations in our main target table when source table provided.
+
+Let’s clarify all our doubts of MERGE statement with the help of example. Consider we have a target table PRODUCTS_DETAILS in which we have to use these operations and also we have a source table UPDATED_DETAILS which contains latest product details and according to the data provided in the UPDATED_DETAILS table we want to make changes in the main PRODUCT_DETAILS table`
